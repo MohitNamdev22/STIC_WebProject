@@ -1,7 +1,7 @@
 <main class="m-20">
     <h1 class="text-7xl text-center pb-16">Chief Advisor</h1>
     <!-- nikita mam wala section-->
-    <div class="flex justify-between w-full">
+    <div class="flex flex-wrap justify-between w-full">
         <div class="bg[url()] w-[40%] m-auto h-80 border border-slate-400" />
         <div class="w-[50%]">
             <h2 class="text-5xl p-5">Prof.Nitika Vats Doohan</h2>
