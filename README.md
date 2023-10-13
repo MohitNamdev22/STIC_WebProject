@@ -36,3 +36,25 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+## What Can I Contribute?
+
+You can contribute to bug fixes, new features, documentation, and more.
+
+## PR Review Process
+
+PRs will be reviewed by maintainers and other contributors.
+
+Feedback and changes may be requested.
+
+Once approved, your PR will be merged into the project.
+
+## License
+
+As of now, this project does not have a specific license. By contributing to this project, you agree that your contributions will be available under the terms and conditions specified in the GitHub Terms of Service.
+
+## Help and Support
+
+If you have any questions, feel free to ask in the project's GitHub Discussions or open an issue.
+
+Thank you for your contributions! 🎉
